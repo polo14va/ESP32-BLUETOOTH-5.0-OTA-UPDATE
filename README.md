@@ -3,4 +3,8 @@
 
 # ESP-IDF ESP32 BLUETOOTH 5.0 BLE OTA UPDATE
 
-This repository 
+This repository based app https://apps.apple.com/es/app/bleuniversal/id6477699252 for iphone
+
+developet with ESP32-C6 
+
+status: in development
